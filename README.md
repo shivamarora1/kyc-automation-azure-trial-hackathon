@@ -25,6 +25,9 @@ curl --location --request POST 'https://pan-kyc-automate-1234009.azurewebsites.n
 ### Frontend 
 👉 go to this static page: ```./frontend/index.html```
 
+### Cloud diagram
+![alt text](https://github.com/shivamarora1/kyc-automation-azure-trial-hackathon/blob/main/frontend/Screenshot%202022-03-09%20at%203.23.32%20AM.png)
+
 ### Reference:
 - https://eastus.dev.cognitive.microsoft.com/docs/services/form-recognizer-api-v3-0-preview-1
 - https://docs.microsoft.com/en-us/azure/azure-functions/
